@@ -1,6 +1,0 @@
-node_modules
-dist
-fonts
-cypress/screenshots
-cypress/plugins
-cypress/support
